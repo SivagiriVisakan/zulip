@@ -1,6 +1,6 @@
 {
     "href": "/v1/tickets/776",
-    "state": "pending",
+    "state": "closed",
     "ticket_number": 776,
     "ticket": {
         "created_at": "2017-12-14 21:12:24 +0530",
@@ -8,7 +8,7 @@
         "links": {
             "customer": {
                 "id": "6383949050",
-                "href": "http://api.groovehq.com/v1/customers/rambo@example.com"
+                "href": "http://api.groovehq.com/v1/customers/someone@example.com"
             },
             "drafts": {
                 "href": "http://api.groovehq.com/v1/tickets/776/drafts"
@@ -60,10 +60,10 @@
         "platform": null,
         "last_message": "Hello , This is a reply from an agent to a ticket",
         "assignee": "agent@example.com",
-        "app_url": "https://ghostfox.groovehq.com/groove_client/tickets/68667295",
-        "app_customer_url": "https://ghostfox.groovehq.com/groove_client/contacts/customers/49829231",
-        "customer_name": "RAMBO",
+        "app_url": "https://testteam.groovehq.com/groove_client/tickets/68667295",
+        "app_customer_url": "https://testteam.groovehq.com/groove_client/contacts/customers/49829231",
+        "customer_name": "someone",
         "last_message_plain_text": "Hello , This is a reply from an agent to a ticket"
     },
-    "app_url": "https://ghostfox.groovehq.com/groove_client/tickets/68667295"
+    "app_url": "https://testteam.groovehq.com/groove_client/tickets/68667295"
 }

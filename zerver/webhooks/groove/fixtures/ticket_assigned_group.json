@@ -55,7 +55,7 @@
     "page_url": null,
     "platform": null,
     "last_message": "The content of the body goes here.",
-    "assignee": "agent@example.com",
+    "assignee": null,
     "app_url": "https://testteam.groovehq.com/groove_client/tickets/68659446",
     "app_customer_url": "https://testteam.groovehq.com/groove_client/contacts/customers/49825873",
     "customer_name": "Test Name",

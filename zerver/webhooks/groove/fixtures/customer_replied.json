@@ -1,7 +1,7 @@
 {
     "links": {
         "author": {
-            "href": "http://api.groovehq.com/v1/customers/rambo@example.com"
+            "href": "http://api.groovehq.com/v1/customers/someone@example.com"
         },
         "ticket": {
             "href": "http://api.groovehq.com/v1/tickets/440"
@@ -18,5 +18,5 @@
     "type": null,
     "attachments": [],
     "deliver_by": null,
-    "app_ticket_url": "https://ghostfox.groovehq.com/groove_client/tickets/68666538"
+    "app_ticket_url": "https://testteam.groovehq.com/groove_client/tickets/68666538"
 }

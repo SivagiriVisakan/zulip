@@ -4,7 +4,7 @@
             "href": "http://api.groovehq.com/v1/agents/agent@example.com"
         },
         "recipient": {
-            "href": "http://api.groovehq.com/v1/customers/rambo@example.com"
+            "href": "http://api.groovehq.com/v1/customers/someone@example.com"
         },
         "ticket": {
             "href": "http://api.groovehq.com/v1/tickets/776"
@@ -21,5 +21,5 @@
     "type": "Comment",
     "attachments": [],
     "deliver_by": null,
-    "app_ticket_url": "https://ghostfox.groovehq.com/groove_client/tickets/68667295"
+    "app_ticket_url": "https://testteam.groovehq.com/groove_client/tickets/68667295"
 }

@@ -16,7 +16,7 @@
             "href": "http://api.groovehq.com/v1/tickets/9/messages"
         },
         "assignee": {
-            "id": "1734497920",
+            "id": "9804030737",
             "href": "http://api.groovehq.com/v1/agents/agent@example.com"
         }
     },
@@ -25,10 +25,10 @@
     "resolution_time": null,
     "state": "opened",
     "title": "Test Subject",
-    "updated_at": "2017-12-14 20:52:26 +0530",
-    "system_updated_at": "2017-12-14 20:52:26 +0530",
-    "assigned_group_id": "1414937220",
-    "assigned_group": "group2",
+    "updated_at": "2017-12-14 20:17:57 +0530",
+    "system_updated_at": "2017-12-14 20:17:57 +0530",
+    "assigned_group_id": null,
+    "assigned_group": null,
     "closed_by": null,
     "tags": [],
     "tag_ids": [],
@@ -48,7 +48,7 @@
     "snoozed_by_id": null,
     "interaction_count": 1,
     "state_changed_at": "2017-12-14 20:09:19 +0530",
-    "assigned_at": "2017-12-14 20:52:26 +0530",
+    "assigned_at": "2017-12-14 20:17:57 +0530",
     "deleted_at": null,
     "browser": null,
     "page_title": null,
